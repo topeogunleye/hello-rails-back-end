@@ -107,7 +107,7 @@ rake assets:precompile
 ```
 
 ```sh
-  rails server
+  rails s -p 8000
 ```
 
 ### Run tests
